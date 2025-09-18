@@ -1,7 +1,0 @@
-openai
-python-dotenv
-numpy
-requests
-matplotlib
-django
-pillow
